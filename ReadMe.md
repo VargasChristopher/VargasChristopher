@@ -29,4 +29,4 @@ I also want to collaborate on any social media content, whether it's YouTube, In
 
 Like I said earlier, I want to improve my social media presence by 2024, so if you want to help with that, check out my Instagram as well!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chrispy.one/)-->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chrispy.one/)
