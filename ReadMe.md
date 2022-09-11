@@ -23,10 +23,10 @@ I also want to collaborate on any social media content, whether it's YouTube, In
 🔗 Links:
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://VargasChristopher.github.io/)
-<!--[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://1drv.ms/w/s!AjcN33HuAPVahzPfI0IDbCI7N8Up?e=gXy8XF)-->
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/file/d/1CizMkflbF5CEXK_jm7hog6TYOG80KSQk/edit?usp=docslist_api&filetype=msword)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/christopher-vargas-66b642195/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/VargasChristopher)
 
-Like I said earlier, I want to improve my social media presence by 2024, so if you want to help with that, check out my LinkTree as well!
+Like I said earlier, I want to improve my social media presence by 2024, so if you want to help with that, check out my Instagram as well!
 
-<!--[![Linktree](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://linktr.ee/chrispy.one)-->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chrispy.one/)-->
