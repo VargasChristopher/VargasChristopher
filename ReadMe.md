@@ -23,7 +23,7 @@ I also want to collaborate on any social media content, whether it's YouTube, In
 🔗 Links:
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://VargasChristopher.github.io/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1zlNmaueNE9BhDCJs_3mFOJ21fCX-D2wc/view?usp=drive_link)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1GEYztF2TEKAPhGONkN36Sn9NxmAk64uo/view?usp=drive_link)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/christopher-vargas-66b642195/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/VargasChristopher)
 
