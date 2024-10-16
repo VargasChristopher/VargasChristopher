@@ -28,4 +28,4 @@ I also want to collaborate on any social media content, whether it's YouTube, In
 
 Like I said earlier, I am currently running a business, so if you want to help with that, check out Apollo Tech as well!
 
-[![apollo tech](https://img.shields.io/badge/any_text-you_like-blue)](https://www.apollo-tech.dev/)
+[![apollo tech](https://img.shields.io/badge/Apollo_Tech-blue)](https://www.apollo-tech.dev/)
