@@ -23,7 +23,7 @@ I also want to collaborate on anything related to my business such as web design
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://VargasChristopher.github.io/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1U1Bevk_Y5wi7kZTobK9PyaTI_OvGgThn/view?usp=drive_link)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://https://www.linkedin.com/in/atsvargas)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/atsvargas)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/VargasChristopher)
 
 Like I said earlier, I am currently running a business, so if you want to help with that, check out Apollo Tech as well!
