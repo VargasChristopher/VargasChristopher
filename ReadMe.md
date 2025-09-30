@@ -1,17 +1,17 @@
 <h1 align="center">Hi I'm Christopher Vargas</h1>
-<h3 align="center">Founder @ Apollo Tech. Former intern @ Amazon & Lockheed Martin.</h3>
+<h3 align="center">Founder | CEO @ Apollo Tech. Former intern @ Amazon & Lockheed Martin.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vargaschristopher&label=Profile%20views&color=0e75b6&style=flat" alt="vargaschristopher" /> </p>
 
 - 🌱 I’m currently learning about: **Smart-building/home infrastructure and AI assistants**
 
-- 👨‍💻 All of my projects are available at: [https://vargaschristopher.github.io/](https://vargaschristopher.github.io/)
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://vargaschristopher.github.io/)
 
 - 💬 Ask me about: **Tech, basketball, or music**
 
 - 📫 How to reach me: **ChristopherVargas_@outlook.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1fb6nPLtFDqmK3q-bjQJaJPzWHh8_NBT1/view](https://drive.google.com/file/d/1fb6nPLtFDqmK3q-bjQJaJPzWHh8_NBT1/view)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1fb6nPLtFDqmK3q-bjQJaJPzWHh8_NBT1/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
